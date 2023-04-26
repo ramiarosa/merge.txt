@@ -1,0 +1,7 @@
+[16,21,11,8,12,22] -> Merge Sort
+
+1.Adım : Diziler eşit şekilde ortadan iki alt diziye ayrılır.
+2.Adım : Ayrılan sayılar kendi aralarında tek eleman kalana kadar bölünür.
+3.Adım : Alt diziler küçükten büyüğe doru kendi aralarında sıralanır.
+
+Big O Gösterimi = O(nlogn)
